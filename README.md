@@ -1,0 +1,1 @@
+This was done following the "Build a To-Do application Using Django and React" tutorial blog post on Digital Ocean from 09/15/2020.  It was very entry-level and was a good first look at running React and Djagno together.
